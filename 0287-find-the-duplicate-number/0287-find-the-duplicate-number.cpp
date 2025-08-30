@@ -1,15 +1,18 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
-        
-        unordered_map<int,int>freq;
+        unordered_set<int>set;
         for(int num:nums)
         {
-            freq[num]++;
-            if(freq[num]>1)
-            return num;
+            if(set.count(num))
+            {
+                return num;
+            }
+        
+                set.insert(num);
+            
         }
         return -1;
-
+         
     }
 };
