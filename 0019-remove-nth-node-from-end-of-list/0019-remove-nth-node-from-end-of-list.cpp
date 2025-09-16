@@ -22,22 +22,19 @@ public:
            
         }
          int pos=count-n;
-          if (pos == 0) {
+         if (pos == 0) {
             ListNode* temp = head;
             head = head->next;
             delete temp;
             return head;
         }
-     
         ListNode*q=head;
     
      for(int i=0;q != NULL && i < pos-1;i++)
         {
            q=q->next;
         }
-       if (q && q->next) {
-            ListNode* toDelete = q->next;
-            q->next = q->next->next;}
+        q->next=q->next->next;
         return head;    
 
     }
