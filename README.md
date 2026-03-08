@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
@@ -48,8 +49,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0155-min-stack/) | Medium |
+| [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
