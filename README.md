@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0155-min-stack/) | Medium |
+| [1622-fancy-sequence](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1622-fancy-sequence/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1622-fancy-sequence](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 <!---LeetCode Topics End-->
