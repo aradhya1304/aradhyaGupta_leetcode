@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -97,4 +99,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
