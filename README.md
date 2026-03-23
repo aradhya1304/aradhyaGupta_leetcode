@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0796-rotate-string](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -122,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0027-remove-element](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0027-remove-element/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
