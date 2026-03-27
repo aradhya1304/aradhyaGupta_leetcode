@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -47,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
