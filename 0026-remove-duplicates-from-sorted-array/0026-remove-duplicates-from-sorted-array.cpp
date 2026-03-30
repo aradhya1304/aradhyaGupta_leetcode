@@ -2,16 +2,20 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         if(nums.empty())
-            return 0;
-
-        int i = 0;  // slow pointer
-
-        for(int j = 1; j < nums.size(); j++) {
-            if(nums[j] != nums[i]) {
-                i++;
-                nums[i] = nums[j];  // place unique element at next position
+        return 0;
+        int i=0,j=1, count=1;
+        while(j<nums.size())
+        {
+            if(nums[j]==nums[j-1])
+            {
+                j++;
+                continue;
             }
+            nums[i+1]=nums[j];
+            i++;
+            count++;
+            j++;
         }
-        return i + 1; // length of unique array
+        return count;
     }
 };
