@@ -1,21 +1,23 @@
 class Solution {
 public:
-    static bool checkStrings(string& s1, string& s2) {
-        array<array<int, 26>, 2> freq{};
-        constexpr array<array<int, 26>, 2> zero{};
-        const int n=s1.size();
-        for(int i=0; i<n; i++){
-            bool iOdd=i&1;
-            freq[iOdd][s1[i]-'a']++;
-            freq[iOdd][s2[i]-'a']--;
+    bool checkStrings(string s1, string s2) {
+        string e1 = "", o1 = "", e2 = "", o2 = "";
+
+        for (int i = 0; i < s1.size(); i++) {
+            if (i % 2 == 0) {
+                e1 += s1[i];
+                e2 += s2[i];
+            } else {
+                o1 += s1[i];
+                o2 += s2[i];
+            }
         }
-        return freq==zero;
+
+        sort(e1.begin(), e1.end());
+        sort(o1.begin(), o1.end());
+        sort(e2.begin(), e2.end());
+        sort(o2.begin(), o2.end());
+
+        return e1 == e2 && o1 == o2;
     }
 };
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
