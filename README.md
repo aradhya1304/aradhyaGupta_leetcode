@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/2264-largest-3-same-digit-number-in-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
 | Problem Name | Difficulty |
