@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2069-walking-robot-simulation-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Array
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0155-min-stack/) | Medium |
 | [1622-fancy-sequence](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [2069-walking-robot-simulation-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
