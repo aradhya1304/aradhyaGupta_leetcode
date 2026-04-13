@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1848-minimum-distance-to-the-target-element](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1929-concatenation-of-array/) | Easy |
