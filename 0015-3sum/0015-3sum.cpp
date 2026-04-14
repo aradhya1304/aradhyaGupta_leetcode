@@ -23,7 +23,7 @@ class Solution {
        r--;
        while(l<n && nums[l]==nums[l-1])
        {l++;} 
-       while(r>0 && nums[r]==nums[r+1])
+       while(l<r && nums[r]==nums[r+1])
        {
         r--;
        }
