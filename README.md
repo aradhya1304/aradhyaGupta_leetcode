@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3689-maximum-total-subarray-value-i](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
