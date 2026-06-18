@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,4 +211,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
