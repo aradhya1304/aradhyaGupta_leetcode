@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0796-rotate-string](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1871-jump-game-vii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
