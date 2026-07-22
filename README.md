@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -231,4 +232,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
