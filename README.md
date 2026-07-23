@@ -93,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0001-two-sum/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String Matching
@@ -210,24 +212,29 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
