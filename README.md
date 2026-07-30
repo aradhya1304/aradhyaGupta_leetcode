@@ -214,11 +214,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0437-path-sum-iii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0437-path-sum-iii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
+| [0437-path-sum-iii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
