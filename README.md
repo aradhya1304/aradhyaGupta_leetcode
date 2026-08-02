@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0877-stone-game](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0877-stone-game/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0877-stone-game](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0877-stone-game/) | Medium |
 | [1871-jump-game-vii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0877-stone-game/) | Medium |
 | [1622-fancy-sequence](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -254,4 +257,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
