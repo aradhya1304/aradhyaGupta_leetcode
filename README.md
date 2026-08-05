@@ -235,11 +235,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [3310-remove-methods-from-project](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,4 +278,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/1406-stone-game-iii/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3310-remove-methods-from-project](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
 <!---LeetCode Topics End-->
