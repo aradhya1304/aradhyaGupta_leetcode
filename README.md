@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0739-daily-temperatures](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0877-stone-game](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0877-stone-game/) | Medium |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -160,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0075-sort-colors](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -169,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/aneeeshh/https-github.com-aradhya1304-aradhya_leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -211,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/aradhya1304/https-github.com-aradhya_leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -264,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -282,4 +288,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3310-remove-methods-from-project](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/aradhya1304/aradhyaGupta_leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
